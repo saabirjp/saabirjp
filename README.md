@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on data analytics, data science and data engineering projects.
 - 🌱 I’m currently learning machine learning and deep learning.
-- 📫 How to reach me: saabirjparvez@gmail.com
-- 😄 Pronouns: he/him
 
 Here are links to some of my projects:
 ## [Medication Waste Reduction](https://github.com/saabirjp/Medication-Waste-Reduction)
