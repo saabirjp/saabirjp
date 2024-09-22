@@ -7,7 +7,7 @@ Here are links to some of my projects:
 ## [Medication Waste Reduction](https://github.com/saabirjp/Medication-Waste-Reduction)
 This is a R Dashboard to analyze medication wastage in a pharmacy. The pharmacy has a batch production mode and wants to shift to a Just-in-Time production mode. The dashboard visualizes the waste in terms of dollar amount and doses for each drug individually as well as all of them together. A regression model is used to understand the relationship between drug waste and the hour of the day. The final tab in the dashboard models a just-in-time production mode and highlights the savings made.
 
-##[IMDB Score Predictor](https://github.com/saabirjp/IMDB-Score-Predictor/tree/main)
+## [IMDB Score Predictor](https://github.com/saabirjp/IMDB-Score-Predictor/tree/main)
 This is a web app that can be used to predict the IMDB score for any potential movie. The used can input the movie director, cast, genre and budget. A random forest machine learning model is used to predict the IMDB score with an accuracy of 90%.
 
 ## [Finding Player Opportunities](https://github.com/saabirjp/Finding-Opportunities)
