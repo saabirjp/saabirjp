@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning machine learning and deep learning.
 
 Here are links to some of my projects:
+## [Superstore Analytics](https://github.com/saabirjp/Superstore)
+This is a PowerBI dashboard to analyze trends in a furniture store. 
+
 ## [Medication Waste Reduction](https://github.com/saabirjp/Medication-Waste-Reduction)
 This is a R Dashboard to analyze medication wastage in a pharmacy. The pharmacy has a batch production mode and wants to shift to a Just-in-Time production mode. The dashboard visualizes the waste in terms of dollar amount and doses for each drug individually as well as all of them together. A regression model is used to understand the relationship between drug waste and the hour of the day. The final tab in the dashboard models a just-in-time production mode and highlights the savings made.
 
